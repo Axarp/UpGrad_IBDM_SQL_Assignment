@@ -9,6 +9,7 @@ CREATE DATABASE imdb;
 
 USE imdb;
 
+
 -- Creating the structure of various tables in the database
 DROP TABLE IF EXISTS movie;
 CREATE TABLE movie

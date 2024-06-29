@@ -1,1 +1,1 @@
-# upGrad_IBDM_Assignment
+This project aims to perform an extensive analysis of a movie dataset, encompassing various aspects such as genres, ratings, and other related attributes. The goal is to extract valuable insights that can inform decisions in the movie industry, such as understanding audience preferences, identifying trends, and making data-driven predictions using SQL.
